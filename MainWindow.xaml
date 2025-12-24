@@ -1,0 +1,42 @@
+﻿<Window x:Class="PrismTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrismTest"
+        mc:Ignorable="d"
+      xmlns:prism="http://prismlibrary.com/" xmlns:viewmodels="clr-namespace:PrismTest.ViewModels"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Title="{Binding Title}" Height="450" Width="800">
+    
+     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <Button Content="点击我" Command="{Binding ClickCommand}" Margin="5"/>
+            <Button Content="发送消息" Command="{Binding SendMessageCommand}" Margin="5"/>
+            <TextBlock Text="{Binding Counter}" VerticalAlignment="Center" Margin="10,0"/>
+        </StackPanel>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <TextBlock Grid.Column="0" Text="{Binding Message}" 
+                       HorizontalAlignment="Center" VerticalAlignment="Center"
+                       FontSize="16" TextWrapping="Wrap"/>
+            
+            <!-- 直接显示 CustomerView -->
+            <ContentControl Grid.Column="1">
+                <ContentControl.Content>
+                    <views:CustomerView xmlns:views="clr-namespace:PrismTest.Views"/>
+                </ContentControl.Content>
+            </ContentControl>
+        </Grid>
+    </Grid>
+</Window>
