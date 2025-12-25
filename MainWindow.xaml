@@ -8,33 +8,38 @@
       xmlns:prism="http://prismlibrary.com/" xmlns:viewmodels="clr-namespace:PrismTest.ViewModels"
         prism:ViewModelLocator.AutoWireViewModel="True"
         Title="{Binding Title}" Height="450" Width="800">
-    
-     <Grid>
+
+    <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        
+
         <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
-            <Button Content="点击我" Command="{Binding ClickCommand}" Margin="5"/>
-            <Button Content="发送消息" Command="{Binding SendMessageCommand}" Margin="5"/>
-            <TextBlock Text="{Binding Counter}" VerticalAlignment="Center" Margin="10,0"/>
+            <Button Content="点击我" Command="{Binding ClickCommand}" Margin="5" />
+            <Button Content="发送消息" Command="{Binding SendMessageCommand}" Margin="5" />
+            <TextBlock Text="{Binding Counter}" VerticalAlignment="Center" Margin="10,0" />
         </StackPanel>
-        
+
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-            
-            <TextBlock Grid.Column="0" Text="{Binding Message}" 
+
+            <TextBlock Grid.Column="0" Text="{Binding Message}"
                        HorizontalAlignment="Center" VerticalAlignment="Center"
-                       FontSize="16" TextWrapping="Wrap"/>
-            
+                       FontSize="16" TextWrapping="Wrap" />
+
             <!-- 直接显示 CustomerView -->
+            <!-- ContentControl 是 WPF 中用于显示单个内容的容器控件 -->
             <ContentControl Grid.Column="1">
+                <!-- Content 属性定义要显示的具体内容 -->
                 <ContentControl.Content>
-                    <views:CustomerView xmlns:views="clr-namespace:PrismTest.Views"/>
+                    <!-- 创建并显示 CustomerView 用户控件的实例 -->
+                    <!-- views: 是 XML 命名空间前缀，指向 PrismTest.Views 命名空间 -->
+                    <!-- xmlns:views 定义了命名空间映射，将 views 前缀绑定到 PrismTest.Views 命名空间 -->
+                    <views:CustomerView xmlns:views="clr-namespace:PrismTest.Views" />
                 </ContentControl.Content>
             </ContentControl>
         </Grid>

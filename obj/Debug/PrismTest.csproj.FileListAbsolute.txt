@@ -31,4 +31,3 @@ F:\SLF\templates\PrismTest\obj\Debug\PrismTest.csproj.CoreCompileInputs.cache
 F:\SLF\templates\PrismTest\obj\Debug\PrismTest.csproj.Up2Date
 F:\SLF\templates\PrismTest\obj\Debug\PrismTest.exe
 F:\SLF\templates\PrismTest\obj\Debug\PrismTest.pdb
-F:\SLF\templates\PrismTest\obj\Debug\PrismTest.exe.config
