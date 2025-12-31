@@ -7,36 +7,52 @@
       "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\modules\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:modules\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\messagesentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:messagesentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\viewmodels\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\views\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:views\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\viewmodels\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:viewmodels\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|F:\\SLF\\templates\\PrismTest\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|f:\\slf\\templates\\prismtest\\modules\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578A586C-104E-4956-9857-4E1C66B9893C}|PrismTest.csproj|solutionrelative:modules\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\CustomerService.cs",
-              "RelativeDocumentMoniker": "CustomerService.cs",
-              "ToolTip": "F:\\SLF\\templates\\PrismTest\\CustomerService.cs",
-              "RelativeToolTip": "CustomerService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:46:07.58Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -68,6 +71,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\MessageService.cs",
+              "RelativeDocumentMoniker": "MessageService.cs",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\MessageService.cs",
+              "RelativeToolTip": "MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:25:39.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageSentEvent.cs",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\MessageSentEvent.cs",
+              "RelativeDocumentMoniker": "MessageSentEvent.cs",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\MessageSentEvent.cs",
+              "RelativeToolTip": "MessageSentEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:25:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\IMessageService.cs",
+              "RelativeDocumentMoniker": "IMessageService.cs",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\IMessageService.cs",
+              "RelativeToolTip": "IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:25:28.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "ICustomerService.cs",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\ICustomerService.cs",
+              "RelativeToolTip": "ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:25:20.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerService.cs",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\CustomerService.cs",
+              "RelativeToolTip": "CustomerService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:46:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -80,26 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerViewModel.cs",
-              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\ViewModels\\CustomerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\CustomerViewModel.cs",
-              "ToolTip": "F:\\SLF\\templates\\PrismTest\\ViewModels\\CustomerViewModel.cs",
-              "RelativeToolTip": "ViewModels\\CustomerViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T05:17:53.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "CustomerModule.cs",
               "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\Modules\\CustomerModule.cs",
               "RelativeDocumentMoniker": "Modules\\CustomerModule.cs",
               "ToolTip": "F:\\SLF\\templates\\PrismTest\\Modules\\CustomerModule.cs",
               "RelativeToolTip": "Modules\\CustomerModule.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T02:13:39.591Z",
               "EditorCaption": ""
@@ -112,14 +167,26 @@
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "F:\\SLF\\templates\\PrismTest\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwEIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwHAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T01:30:51.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "CustomerView.xaml",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\Views\\CustomerView.xaml",
+              "RelativeDocumentMoniker": "Views\\CustomerView.xaml",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\Views\\CustomerView.xaml",
+              "RelativeToolTip": "Views\\CustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-29T03:24:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -132,7 +199,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "F:\\SLF\\templates\\PrismTest\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:17:53.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NavigationViewModel.cs",
               "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\ViewModels\\NavigationViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\NavigationViewModel.cs",
@@ -145,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
@@ -154,39 +234,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T01:27:48.517Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "75ad179b-f4d2-4757-9db2-49ce288bafc5",
-        "Display": 2,
-        "X": 16,
-        "Y": 329,
-        "Width": 1522,
-        "Height": 743,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\SLF\\templates\\PrismTest\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "F:\\SLF\\templates\\PrismTest\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-23T01:26:52.016Z",
               "EditorCaption": ""
             }
           ]
